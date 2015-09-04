@@ -18,5 +18,4 @@ app.get('/', function(req, res) {
 	res.sendFile('index.html');
 }).listen(8000);
 
-
 console.log('Running Server...');
