@@ -1,0 +1,27 @@
+{
+  "name": "simple-node-server",
+  "version": "0.1.0",
+  "description": "Simplest node server to serve static files using express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunMichaelDsouza/simple-node-server.git"
+  },
+  "keywords": [
+    "Node",
+    "server"
+  ],
+  "author": "Arun Michael Dsouza <amdsouza92@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArunMichaelDsouza/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/ArunMichaelDsouza/simple-node-server#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
